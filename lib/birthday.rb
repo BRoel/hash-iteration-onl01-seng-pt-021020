@@ -5,7 +5,7 @@ birthday_kids = {
 }
 
 def happy_birthday(birthday_kids)
-  print "Happy Birthday #{birthday_kids}! You are now #{birthday_kids[]}"
+  puts "Happy Birthday #{birthday_kids}! You are now #{birthday_kids[]}"
 end
 
 
